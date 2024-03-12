@@ -1,0 +1,34 @@
+body {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: #ADD8E6;
+}
+
+#Navbar {
+    text-align: center;
+}
+
+.backgroundDiv {
+    background-image: url('https://wallpapercave.com/wp/wp5085055.jpg');
+    background-repeat: repeat;
+    background-size: 150% auto;
+}
+
+.panelDiv {
+    background-color: #000000e8;
+    background-repeat: repeat;
+    background-size: auto;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.contentCenterDiv {
+    width: 97.5%;
+    margin: 0 auto;
+}
