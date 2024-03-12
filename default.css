@@ -47,12 +47,12 @@ a {
     text-align: center;
 }
 
-#skillImages {
+.skillImages {
     max-width: 100px;
     max-height: 100px;
 }
 
-#headerImages {
+.headerImages {
     max-width: 150px;
     max-height: 150px;
 }
