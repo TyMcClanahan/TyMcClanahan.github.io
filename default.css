@@ -32,3 +32,8 @@ a {
     width: 97.5%;
     margin: 0 auto;
 }
+
+#skillImages {
+    max-width: 64px;
+    max-height: 64px;
+}
