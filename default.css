@@ -4,6 +4,7 @@ body {
 
 p{
     font-family: 'Lato', serif;
+    font-size: 17.5px;
 }
 
 h1 {
@@ -37,6 +38,11 @@ a {
     margin: 0 auto;
 }
 
+.portfolioTextDiv{
+    width: 95%;
+    margin: 0 auto;
+}
+
 .imageCenter{
     text-align: center;
 }
@@ -47,5 +53,10 @@ a {
 }
 
 #headerImages {
-    
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.headerText{
+    margin-top: 25px;
 }
