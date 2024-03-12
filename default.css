@@ -33,7 +33,11 @@ a {
     margin: 0 auto;
 }
 
+.imageCenter{
+    text-align: center;
+}
+
 #skillImages {
-    max-width: 64px;
-    max-height: 64px;
+    max-width: 100px;
+    max-height: 100px;
 }
